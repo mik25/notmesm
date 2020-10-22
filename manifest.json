@@ -1,0 +1,1 @@
+{"id":"org.notmesmeric","version":"1.0.1","name":"Not Mesmeric","description":"New DNS IPTV","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["notmesmeric"],"icon":"https://raw.githubusercontent.com/mik25/notmesm/master/logo.png","catalogs":[{"id":"notmesmericcat","name":"Not Mesmeric","type":"tv"}]}
